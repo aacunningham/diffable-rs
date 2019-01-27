@@ -5,3 +5,5 @@ authors = ["Aaron Cunningham <aa.cunningham@outlook.com>"]
 edition = "2018"
 
 [dependencies]
+diffable_derive = { path = "diffable_derive" }
+
